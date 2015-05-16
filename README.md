@@ -2,4 +2,4 @@
 MY HOMEWORK
 
 
-Hello! Here are my Telerik Homework!
+Hello! That's my homework!
