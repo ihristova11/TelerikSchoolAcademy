@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\05. IsTheNumberBigger\bin\Debug\_05.IsTheNumberBigger.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\05. IsTheNumberBigger\bin\Debug\_05.IsTheNumberBigger.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\05. IsTheNumberBigger\bin\Debug\_05.IsTheNumberBigger.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\05. IsTheNumberBigger\obj\Debug\_05.IsTheNumberBigger.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\05. IsTheNumberBigger\obj\Debug\_05.IsTheNumberBigger.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\05. IsTheNumberBigger\obj\Debug\05. IsTheNumberBigger.csprojResolveAssemblyReference.cache

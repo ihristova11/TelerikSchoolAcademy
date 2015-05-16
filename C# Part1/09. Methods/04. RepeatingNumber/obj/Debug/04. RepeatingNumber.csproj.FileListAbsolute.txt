@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\04. RepeatingNumber\bin\Debug\_04.RepeatingNumber.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\04. RepeatingNumber\bin\Debug\_04.RepeatingNumber.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\04. RepeatingNumber\bin\Debug\_04.RepeatingNumber.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\04. RepeatingNumber\obj\Debug\04. RepeatingNumber.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\9. Methods-HW\04. RepeatingNumber\obj\Debug\_04.RepeatingNumber.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\04. RepeatingNumber\obj\Debug\_04.RepeatingNumber.pdb

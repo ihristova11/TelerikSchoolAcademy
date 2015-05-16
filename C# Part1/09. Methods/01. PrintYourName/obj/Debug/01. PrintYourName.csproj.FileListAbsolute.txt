@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\01. PrintYourName\bin\Debug\_01.PrintYourName.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\01. PrintYourName\obj\Debug\01. PrintYourName.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\9. Methods-HW\01. PrintYourName\bin\Debug\_01.PrintYourName.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\01. PrintYourName\bin\Debug\_01.PrintYourName.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\01. PrintYourName\obj\Debug\_01.PrintYourName.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\01. PrintYourName\obj\Debug\_01.PrintYourName.pdb

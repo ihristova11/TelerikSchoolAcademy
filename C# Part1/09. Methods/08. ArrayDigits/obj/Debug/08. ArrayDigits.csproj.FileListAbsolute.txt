@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\08. ArrayDigits\bin\Debug\_08.ArrayDigits.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\08. ArrayDigits\bin\Debug\_08.ArrayDigits.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\08. ArrayDigits\bin\Debug\_08.ArrayDigits.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\08. ArrayDigits\obj\Debug\_08.ArrayDigits.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\08. ArrayDigits\obj\Debug\_08.ArrayDigits.pdb

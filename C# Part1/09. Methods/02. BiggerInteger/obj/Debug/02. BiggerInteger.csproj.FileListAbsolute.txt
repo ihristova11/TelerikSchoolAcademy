@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\02. BiggerInteger\bin\Debug\_02.BiggerInteger.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\02. BiggerInteger\bin\Debug\_02.BiggerInteger.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\02. BiggerInteger\bin\Debug\_02.BiggerInteger.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\02. BiggerInteger\obj\Debug\_02.BiggerInteger.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\02. BiggerInteger\obj\Debug\_02.BiggerInteger.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\02. BiggerInteger\obj\Debug\02. BiggerInteger.csprojResolveAssemblyReference.cache

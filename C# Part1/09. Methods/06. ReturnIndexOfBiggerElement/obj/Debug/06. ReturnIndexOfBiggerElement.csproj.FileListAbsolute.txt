@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\06. ReturnIndexOfBiggerElement\bin\Debug\_06.ReturnIndexOfBiggerElement.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\06. ReturnIndexOfBiggerElement\obj\Debug\06. ReturnIndexOfBiggerElement.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\9. Methods-HW\06. ReturnIndexOfBiggerElement\bin\Debug\_06.ReturnIndexOfBiggerElement.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\06. ReturnIndexOfBiggerElement\bin\Debug\_06.ReturnIndexOfBiggerElement.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\06. ReturnIndexOfBiggerElement\obj\Debug\_06.ReturnIndexOfBiggerElement.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\06. ReturnIndexOfBiggerElement\obj\Debug\_06.ReturnIndexOfBiggerElement.pdb

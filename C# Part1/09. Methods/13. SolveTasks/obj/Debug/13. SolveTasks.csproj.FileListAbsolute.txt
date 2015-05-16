@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\13. SolveTasks\bin\Debug\_13.SolveTasks.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\13. SolveTasks\obj\Debug\13. SolveTasks.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\9. Methods-HW\13. SolveTasks\bin\Debug\_13.SolveTasks.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\13. SolveTasks\bin\Debug\_13.SolveTasks.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\13. SolveTasks\obj\Debug\_13.SolveTasks.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\13. SolveTasks\obj\Debug\_13.SolveTasks.pdb

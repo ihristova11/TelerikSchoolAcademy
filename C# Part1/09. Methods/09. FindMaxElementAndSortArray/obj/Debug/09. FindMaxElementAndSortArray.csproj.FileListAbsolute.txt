@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\09. FindMaxElementAndSortArray\bin\Debug\_09.FindMaxElementAndSortArray.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\09. FindMaxElementAndSortArray\obj\Debug\09. FindMaxElementAndSortArray.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\9. Methods-HW\09. FindMaxElementAndSortArray\bin\Debug\_09.FindMaxElementAndSortArray.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\09. FindMaxElementAndSortArray\bin\Debug\_09.FindMaxElementAndSortArray.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\09. FindMaxElementAndSortArray\obj\Debug\_09.FindMaxElementAndSortArray.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\09. FindMaxElementAndSortArray\obj\Debug\_09.FindMaxElementAndSortArray.pdb

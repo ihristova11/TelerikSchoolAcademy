@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\14. SolveMinMaxAverageSumProduct\bin\Debug\_14.SolveMinMaxAverageSumProduct.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\14. SolveMinMaxAverageSumProduct\bin\Debug\_14.SolveMinMaxAverageSumProduct.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\14. SolveMinMaxAverageSumProduct\bin\Debug\_14.SolveMinMaxAverageSumProduct.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\14. SolveMinMaxAverageSumProduct\obj\Debug\14. SolveMinMaxAverageSumProduct.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\9. Methods-HW\14. SolveMinMaxAverageSumProduct\obj\Debug\_14.SolveMinMaxAverageSumProduct.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\14. SolveMinMaxAverageSumProduct\obj\Debug\_14.SolveMinMaxAverageSumProduct.pdb

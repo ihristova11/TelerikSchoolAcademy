@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\03. ReturnTheLastDigit\bin\Debug\_03.ReturnTheLastDigit.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\03. ReturnTheLastDigit\bin\Debug\_03.ReturnTheLastDigit.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\03. ReturnTheLastDigit\bin\Debug\_03.ReturnTheLastDigit.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\03. ReturnTheLastDigit\obj\Debug\_03.ReturnTheLastDigit.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\03. ReturnTheLastDigit\obj\Debug\_03.ReturnTheLastDigit.pdb

@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\10. FactorialNumber\bin\Debug\_10.FactorialNumber.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\10. FactorialNumber\obj\Debug\10. FactorialNumber.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\9. Methods-HW\10. FactorialNumber\bin\Debug\_10.FactorialNumber.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\10. FactorialNumber\bin\Debug\_10.FactorialNumber.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\10. FactorialNumber\obj\Debug\_10.FactorialNumber.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\10. FactorialNumber\obj\Debug\_10.FactorialNumber.pdb

@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\07. ReverseNumberDigits\bin\Debug\_07.ReverseNumberDigits.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\07. ReverseNumberDigits\bin\Debug\_07.ReverseNumberDigits.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\07. ReverseNumberDigits\bin\Debug\_07.ReverseNumberDigits.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\07. ReverseNumberDigits\obj\Debug\_07.ReverseNumberDigits.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\07. ReverseNumberDigits\obj\Debug\_07.ReverseNumberDigits.pdb

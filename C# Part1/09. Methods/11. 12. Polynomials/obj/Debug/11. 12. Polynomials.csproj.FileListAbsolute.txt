@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\9. Methods-HW\11. 12. Polynomials\bin\Debug\_11._12.Polynomials.exe.config
+D:\Irina\School\Telerik School Academy\9. Methods-HW\11. 12. Polynomials\bin\Debug\_11._12.Polynomials.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\11. 12. Polynomials\bin\Debug\_11._12.Polynomials.pdb
+D:\Irina\School\Telerik School Academy\9. Methods-HW\11. 12. Polynomials\obj\Debug\_11._12.Polynomials.exe
+D:\Irina\School\Telerik School Academy\9. Methods-HW\11. 12. Polynomials\obj\Debug\_11._12.Polynomials.pdb
