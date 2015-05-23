@@ -1,0 +1,13 @@
+Idle = 0
+Run = 1
+Special = 2
+
+
+Idle->Run : 1
+Idle->Special : 2
+
+Run->Idle : 0
+Special->Idle : 0
+
+Run->Special : 2
+Special->Run : 1

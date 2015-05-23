@@ -1,0 +1,1243 @@
+fileFormatVersion: 2
+guid: b72825adfc034ba4a9931c82045bdbf2
+timeCreated: 1432391868
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sonicthehedgehog3_various_sheet_0
+    21300002: sonicthehedgehog3_various_sheet_1
+    21300004: sonicthehedgehog3_various_sheet_2
+    21300006: sonicthehedgehog3_various_sheet_3
+    21300008: sonicthehedgehog3_various_sheet_4
+    21300010: sonicthehedgehog3_various_sheet_5
+    21300012: sonicthehedgehog3_various_sheet_6
+    21300014: sonicthehedgehog3_various_sheet_7
+    21300016: sonicthehedgehog3_various_sheet_8
+    21300018: sonicthehedgehog3_various_sheet_9
+    21300020: sonicthehedgehog3_various_sheet_10
+    21300022: sonicthehedgehog3_various_sheet_11
+    21300024: sonicthehedgehog3_various_sheet_12
+    21300026: sonicthehedgehog3_various_sheet_13
+    21300028: sonicthehedgehog3_various_sheet_14
+    21300030: sonicthehedgehog3_various_sheet_15
+    21300032: sonicthehedgehog3_various_sheet_16
+    21300034: sonicthehedgehog3_various_sheet_17
+    21300036: sonicthehedgehog3_various_sheet_18
+    21300038: sonicthehedgehog3_various_sheet_19
+    21300040: sonicthehedgehog3_various_sheet_20
+    21300042: sonicthehedgehog3_various_sheet_21
+    21300044: sonicthehedgehog3_various_sheet_22
+    21300046: sonicthehedgehog3_various_sheet_23
+    21300048: sonicthehedgehog3_various_sheet_24
+    21300050: sonicthehedgehog3_various_sheet_25
+    21300052: sonicthehedgehog3_various_sheet_26
+    21300054: sonicthehedgehog3_various_sheet_27
+    21300056: sonicthehedgehog3_various_sheet_28
+    21300058: sonicthehedgehog3_various_sheet_29
+    21300060: sonicthehedgehog3_various_sheet_30
+    21300062: sonicthehedgehog3_various_sheet_31
+    21300064: sonicthehedgehog3_various_sheet_32
+    21300066: sonicthehedgehog3_various_sheet_33
+    21300068: sonicthehedgehog3_various_sheet_34
+    21300070: sonicthehedgehog3_various_sheet_35
+    21300072: sonicthehedgehog3_various_sheet_36
+    21300074: sonicthehedgehog3_various_sheet_37
+    21300076: sonicthehedgehog3_various_sheet_38
+    21300078: sonicthehedgehog3_various_sheet_39
+    21300080: sonicthehedgehog3_various_sheet_40
+    21300082: sonicthehedgehog3_various_sheet_41
+    21300084: sonicthehedgehog3_various_sheet_42
+    21300086: sonicthehedgehog3_various_sheet_43
+    21300088: sonicthehedgehog3_various_sheet_44
+    21300090: sonicthehedgehog3_various_sheet_45
+    21300092: sonicthehedgehog3_various_sheet_46
+    21300094: sonicthehedgehog3_various_sheet_47
+    21300096: sonicthehedgehog3_various_sheet_48
+    21300098: sonicthehedgehog3_various_sheet_49
+    21300100: sonicthehedgehog3_various_sheet_50
+    21300102: sonicthehedgehog3_various_sheet_51
+    21300104: sonicthehedgehog3_various_sheet_52
+    21300106: sonicthehedgehog3_various_sheet_53
+    21300108: sonicthehedgehog3_various_sheet_54
+    21300110: sonicthehedgehog3_various_sheet_55
+    21300112: sonicthehedgehog3_various_sheet_56
+    21300114: sonicthehedgehog3_various_sheet_57
+    21300116: sonicthehedgehog3_various_sheet_58
+    21300118: sonicthehedgehog3_various_sheet_59
+    21300120: sonicthehedgehog3_various_sheet_60
+    21300122: sonicthehedgehog3_various_sheet_61
+    21300124: sonicthehedgehog3_various_sheet_62
+    21300126: sonicthehedgehog3_various_sheet_63
+    21300128: sonicthehedgehog3_various_sheet_64
+    21300130: sonicthehedgehog3_various_sheet_65
+    21300132: sonicthehedgehog3_various_sheet_66
+    21300134: sonicthehedgehog3_various_sheet_67
+    21300136: sonicthehedgehog3_various_sheet_68
+    21300138: sonicthehedgehog3_various_sheet_69
+    21300140: sonicthehedgehog3_various_sheet_70
+    21300142: sonicthehedgehog3_various_sheet_71
+    21300144: sonicthehedgehog3_various_sheet_72
+    21300146: sonicthehedgehog3_various_sheet_73
+    21300148: sonicthehedgehog3_various_sheet_74
+    21300150: sonicthehedgehog3_various_sheet_75
+    21300152: sonicthehedgehog3_various_sheet_76
+    21300154: sonicthehedgehog3_various_sheet_77
+    21300156: sonicthehedgehog3_various_sheet_78
+    21300158: sonicthehedgehog3_various_sheet_79
+    21300160: sonicthehedgehog3_various_sheet_80
+    21300162: sonicthehedgehog3_various_sheet_81
+    21300164: sonicthehedgehog3_various_sheet_82
+    21300166: sonicthehedgehog3_various_sheet_83
+    21300168: sonicthehedgehog3_various_sheet_84
+    21300170: sonicthehedgehog3_various_sheet_85
+    21300172: sonicthehedgehog3_various_sheet_86
+    21300174: sonicthehedgehog3_various_sheet_87
+    21300176: sonicthehedgehog3_various_sheet_88
+    21300178: sonicthehedgehog3_various_sheet_89
+    21300180: sonicthehedgehog3_various_sheet_90
+    21300182: sonicthehedgehog3_various_sheet_91
+    21300184: sonicthehedgehog3_various_sheet_92
+    21300186: sonicthehedgehog3_various_sheet_93
+    21300188: sonicthehedgehog3_various_sheet_94
+    21300190: sonicthehedgehog3_various_sheet_95
+    21300192: sonicthehedgehog3_various_sheet_96
+    21300194: sonicthehedgehog3_various_sheet_97
+    21300196: sonicthehedgehog3_various_sheet_98
+    21300198: sonicthehedgehog3_various_sheet_99
+    21300200: sonicthehedgehog3_various_sheet_100
+    21300202: sonicthehedgehog3_various_sheet_101
+    21300204: sonicthehedgehog3_various_sheet_102
+    21300206: sonicthehedgehog3_various_sheet_103
+    21300208: sonicthehedgehog3_various_sheet_104
+    21300210: sonicthehedgehog3_various_sheet_105
+    21300212: sonicthehedgehog3_various_sheet_106
+    21300214: sonicthehedgehog3_various_sheet_107
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sonicthehedgehog3_various_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 669
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 669
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 715
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 728
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 708
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 712
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 708
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 712
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 719
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 719
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 723
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 661
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 693
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 658
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 661
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 661
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 661
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 661
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 661
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 569
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 569
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 569
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 560
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 614
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 619
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 610
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 561
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 564
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 561
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 552
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 505
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 522
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 510
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 518
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 518
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 470
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 461
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 461
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 448
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 468
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 466
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 399
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 427
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 427
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 427
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 427
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 427
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 399
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 378
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 373
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 365
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 366
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 349
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 337
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 336
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 337
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 337
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 311
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 309
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 284
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 251
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 216
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 233
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 216
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 216
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 216
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 216
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 216
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 233
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 216
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 216
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 157
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 156
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 187
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 125
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 121
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 121
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 119
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 126
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 81
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 81
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 85
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 88
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 69
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 52
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 46
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 42
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 38
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonicthehedgehog3_various_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 9
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
