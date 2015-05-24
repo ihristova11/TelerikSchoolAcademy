@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\15. HTMLTags\bin\Debug\_15.HTMLTags.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\15. HTMLTags\bin\Debug\_15.HTMLTags.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\15. HTMLTags\bin\Debug\_15.HTMLTags.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\15. HTMLTags\obj\Debug\_15.HTMLTags.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\15. HTMLTags\obj\Debug\_15.HTMLTags.pdb

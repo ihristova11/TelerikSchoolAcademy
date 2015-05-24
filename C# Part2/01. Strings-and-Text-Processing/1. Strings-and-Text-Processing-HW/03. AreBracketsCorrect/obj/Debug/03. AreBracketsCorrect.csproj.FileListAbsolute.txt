@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\03. AreBracketsCorrect\bin\Debug\_03.AreBracketsCorrect.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\03. AreBracketsCorrect\bin\Debug\_03.AreBracketsCorrect.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\03. AreBracketsCorrect\bin\Debug\_03.AreBracketsCorrect.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\03. AreBracketsCorrect\obj\Debug\03. AreBracketsCorrect.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\03. AreBracketsCorrect\obj\Debug\_03.AreBracketsCorrect.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\03. AreBracketsCorrect\obj\Debug\_03.AreBracketsCorrect.pdb

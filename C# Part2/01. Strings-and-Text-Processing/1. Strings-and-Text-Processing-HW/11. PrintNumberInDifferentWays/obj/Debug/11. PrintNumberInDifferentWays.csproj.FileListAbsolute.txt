@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\11. PrintNumberInDifferentWays\bin\Debug\_11.PrintNumberInDifferentWays.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\11. PrintNumberInDifferentWays\bin\Debug\_11.PrintNumberInDifferentWays.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\11. PrintNumberInDifferentWays\bin\Debug\_11.PrintNumberInDifferentWays.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\11. PrintNumberInDifferentWays\obj\Debug\11. PrintNumberInDifferentWays.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\11. PrintNumberInDifferentWays\obj\Debug\_11.PrintNumberInDifferentWays.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\11. PrintNumberInDifferentWays\obj\Debug\_11.PrintNumberInDifferentWays.pdb

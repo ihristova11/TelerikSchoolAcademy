@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\24. WordsInAlphabeticalOrder\bin\Debug\_24.WordsInAlphabeticalOrder.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\24. WordsInAlphabeticalOrder\bin\Debug\_24.WordsInAlphabeticalOrder.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\24. WordsInAlphabeticalOrder\bin\Debug\_24.WordsInAlphabeticalOrder.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\24. WordsInAlphabeticalOrder\obj\Debug\_24.WordsInAlphabeticalOrder.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\24. WordsInAlphabeticalOrder\obj\Debug\_24.WordsInAlphabeticalOrder.pdb

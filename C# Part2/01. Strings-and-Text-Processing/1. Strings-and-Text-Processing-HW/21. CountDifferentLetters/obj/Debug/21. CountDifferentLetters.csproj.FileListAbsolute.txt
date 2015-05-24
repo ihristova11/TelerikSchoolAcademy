@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\21. CountDifferentLetters\bin\Debug\_21.CountDifferentLetters.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\21. CountDifferentLetters\bin\Debug\_21.CountDifferentLetters.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\21. CountDifferentLetters\bin\Debug\_21.CountDifferentLetters.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\21. CountDifferentLetters\obj\Debug\_21.CountDifferentLetters.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\21. CountDifferentLetters\obj\Debug\_21.CountDifferentLetters.pdb

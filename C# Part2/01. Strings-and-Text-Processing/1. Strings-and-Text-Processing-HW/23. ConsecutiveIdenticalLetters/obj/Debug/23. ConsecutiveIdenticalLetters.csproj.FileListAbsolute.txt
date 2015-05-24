@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\23. ConsecutiveIdenticalLetters\bin\Debug\_23.ConsecutiveIdenticalLetters.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\23. ConsecutiveIdenticalLetters\bin\Debug\_23.ConsecutiveIdenticalLetters.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\23. ConsecutiveIdenticalLetters\bin\Debug\_23.ConsecutiveIdenticalLetters.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\23. ConsecutiveIdenticalLetters\obj\Debug\_23.ConsecutiveIdenticalLetters.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\23. ConsecutiveIdenticalLetters\obj\Debug\_23.ConsecutiveIdenticalLetters.pdb

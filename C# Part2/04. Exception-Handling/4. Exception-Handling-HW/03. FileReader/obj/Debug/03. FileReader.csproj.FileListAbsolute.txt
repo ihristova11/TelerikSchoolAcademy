@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\03. FileReader\bin\Debug\_03.FileReader.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\03. FileReader\bin\Debug\_03.FileReader.exe
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\03. FileReader\bin\Debug\_03.FileReader.pdb
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\03. FileReader\obj\Debug\03. FileReader.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\03. FileReader\obj\Debug\_03.FileReader.exe
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\03. FileReader\obj\Debug\_03.FileReader.pdb

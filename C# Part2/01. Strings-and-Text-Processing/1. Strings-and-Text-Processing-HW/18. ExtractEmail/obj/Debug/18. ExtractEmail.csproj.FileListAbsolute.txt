@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\18. ExtractEmail\bin\Debug\_18.ExtractEmail.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\18. ExtractEmail\obj\Debug\18. ExtractEmail.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\18. ExtractEmail\bin\Debug\_18.ExtractEmail.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\18. ExtractEmail\bin\Debug\_18.ExtractEmail.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\18. ExtractEmail\obj\Debug\_18.ExtractEmail.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\18. ExtractEmail\obj\Debug\_18.ExtractEmail.pdb

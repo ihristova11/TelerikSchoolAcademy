@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\Exercises\3. Defining-Classes-Part-II-HW\Task1To4-3DPoint\bin\Debug\Task1To4-3DPoint.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\3. Defining-Classes-Part-II-HW\Task1To4-3DPoint\obj\Debug\Task1To4-3DPoint.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\Exercises\3. Defining-Classes-Part-II-HW\Task1To4-3DPoint\bin\Debug\Task1To4-3DPoint.exe
+D:\Irina\School\Telerik School Academy\Exercises\3. Defining-Classes-Part-II-HW\Task1To4-3DPoint\bin\Debug\Task1To4-3DPoint.pdb
+D:\Irina\School\Telerik School Academy\Exercises\3. Defining-Classes-Part-II-HW\Task1To4-3DPoint\obj\Debug\Task1To4-3DPoint.exe
+D:\Irina\School\Telerik School Academy\Exercises\3. Defining-Classes-Part-II-HW\Task1To4-3DPoint\obj\Debug\Task1To4-3DPoint.pdb

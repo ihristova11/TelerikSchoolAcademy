@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\10. CovertToUnicodeLiteral\bin\Debug\_10.CovertToUnicodeLiteral.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\10. CovertToUnicodeLiteral\obj\Debug\10. CovertToUnicodeLiteral.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\10. CovertToUnicodeLiteral\bin\Debug\_10.CovertToUnicodeLiteral.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\10. CovertToUnicodeLiteral\bin\Debug\_10.CovertToUnicodeLiteral.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\10. CovertToUnicodeLiteral\obj\Debug\_10.CovertToUnicodeLiteral.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\10. CovertToUnicodeLiteral\obj\Debug\_10.CovertToUnicodeLiteral.pdb

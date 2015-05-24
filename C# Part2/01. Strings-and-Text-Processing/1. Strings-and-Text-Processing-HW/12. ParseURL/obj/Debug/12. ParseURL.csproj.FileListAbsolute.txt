@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\12. ParseURL\bin\Debug\_12.ParseURL.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\12. ParseURL\bin\Debug\_12.ParseURL.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\12. ParseURL\bin\Debug\_12.ParseURL.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\12. ParseURL\obj\Debug\_12.ParseURL.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\12. ParseURL\obj\Debug\_12.ParseURL.pdb

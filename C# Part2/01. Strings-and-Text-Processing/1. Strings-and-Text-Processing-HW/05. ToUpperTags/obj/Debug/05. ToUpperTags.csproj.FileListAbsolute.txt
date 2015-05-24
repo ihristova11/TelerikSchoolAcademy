@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\05. ToUpperTags\bin\Debug\_05.ToUpperTags.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\05. ToUpperTags\obj\Debug\05. ToUpperTags.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\05. ToUpperTags\bin\Debug\_05.ToUpperTags.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\05. ToUpperTags\bin\Debug\_05.ToUpperTags.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\05. ToUpperTags\obj\Debug\_05.ToUpperTags.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\05. ToUpperTags\obj\Debug\_05.ToUpperTags.pdb

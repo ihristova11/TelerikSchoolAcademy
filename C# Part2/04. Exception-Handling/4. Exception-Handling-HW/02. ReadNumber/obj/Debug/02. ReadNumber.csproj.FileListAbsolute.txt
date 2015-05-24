@@ -1,0 +1,2 @@
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\02. ReadNumber\bin\Debug\_02.ReadNumber.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\02. ReadNumber\obj\Debug\02. ReadNumber.csprojResolveAssemblyReference.cache

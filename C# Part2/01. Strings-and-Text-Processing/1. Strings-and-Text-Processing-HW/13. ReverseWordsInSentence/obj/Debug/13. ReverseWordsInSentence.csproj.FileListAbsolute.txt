@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\13. ReverseWordsInSentence\bin\Debug\_13.ReverseWordsInSentence.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\13. ReverseWordsInSentence\bin\Debug\_13.ReverseWordsInSentence.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\13. ReverseWordsInSentence\bin\Debug\_13.ReverseWordsInSentence.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\13. ReverseWordsInSentence\obj\Debug\13. ReverseWordsInSentence.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\13. ReverseWordsInSentence\obj\Debug\_13.ReverseWordsInSentence.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\13. ReverseWordsInSentence\obj\Debug\_13.ReverseWordsInSentence.pdb

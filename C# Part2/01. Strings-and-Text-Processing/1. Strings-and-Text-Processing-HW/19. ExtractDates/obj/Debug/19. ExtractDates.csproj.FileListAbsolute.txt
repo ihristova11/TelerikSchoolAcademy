@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\19. ExtractDates\bin\Debug\_19.ExtractDates.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\19. ExtractDates\bin\Debug\_19.ExtractDates.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\19. ExtractDates\bin\Debug\_19.ExtractDates.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\19. ExtractDates\obj\Debug\_19.ExtractDates.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\19. ExtractDates\obj\Debug\_19.ExtractDates.pdb

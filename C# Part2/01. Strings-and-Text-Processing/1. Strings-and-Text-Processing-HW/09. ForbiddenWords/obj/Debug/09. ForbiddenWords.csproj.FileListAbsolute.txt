@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\09. ForbiddenWords\bin\Debug\_09.ForbiddenWords.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\09. ForbiddenWords\bin\Debug\_09.ForbiddenWords.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\09. ForbiddenWords\bin\Debug\_09.ForbiddenWords.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\09. ForbiddenWords\obj\Debug\_09.ForbiddenWords.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\09. ForbiddenWords\obj\Debug\_09.ForbiddenWords.pdb

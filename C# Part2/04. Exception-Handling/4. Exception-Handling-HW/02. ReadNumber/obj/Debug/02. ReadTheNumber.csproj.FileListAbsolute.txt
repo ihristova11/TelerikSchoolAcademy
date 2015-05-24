@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\02. ReadNumber\bin\Debug\_02.ReadNumber.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\02. ReadNumber\bin\Debug\_02.ReadNumber.exe
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\02. ReadNumber\bin\Debug\_02.ReadNumber.pdb
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\02. ReadNumber\obj\Debug\_02.ReadNumber.exe
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\02. ReadNumber\obj\Debug\_02.ReadNumber.pdb

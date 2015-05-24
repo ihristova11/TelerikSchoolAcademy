@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\22. CountDifferentWords\bin\Debug\_22.CountDifferentWords.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\22. CountDifferentWords\bin\Debug\_22.CountDifferentWords.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\22. CountDifferentWords\bin\Debug\_22.CountDifferentWords.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\22. CountDifferentWords\obj\Debug\22. CountDifferentWords.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\22. CountDifferentWords\obj\Debug\_22.CountDifferentWords.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\22. CountDifferentWords\obj\Debug\_22.CountDifferentWords.pdb

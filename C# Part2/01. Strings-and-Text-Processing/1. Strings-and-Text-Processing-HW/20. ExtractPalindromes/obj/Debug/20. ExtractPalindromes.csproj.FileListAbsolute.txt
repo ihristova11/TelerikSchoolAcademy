@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\20. ExtractPalindromes\bin\Debug\_20.ExtractPalindromes.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\20. ExtractPalindromes\bin\Debug\_20.ExtractPalindromes.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\20. ExtractPalindromes\bin\Debug\_20.ExtractPalindromes.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\20. ExtractPalindromes\obj\Debug\_20.ExtractPalindromes.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\20. ExtractPalindromes\obj\Debug\_20.ExtractPalindromes.pdb

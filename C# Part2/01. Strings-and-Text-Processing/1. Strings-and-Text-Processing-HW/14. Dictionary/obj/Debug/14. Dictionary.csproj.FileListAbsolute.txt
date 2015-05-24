@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\14. Dictionary\bin\Debug\_14.Dictionary.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\14. Dictionary\bin\Debug\_14.Dictionary.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\14. Dictionary\bin\Debug\_14.Dictionary.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\14. Dictionary\obj\Debug\_14.Dictionary.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\14. Dictionary\obj\Debug\_14.Dictionary.pdb

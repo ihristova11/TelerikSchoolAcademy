@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\08. ExtractSentence\bin\Debug\_08.ExtractSentence.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\08. ExtractSentence\bin\Debug\_08.ExtractSentence.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\08. ExtractSentence\bin\Debug\_08.ExtractSentence.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\08. ExtractSentence\obj\Debug\_08.ExtractSentence.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\08. ExtractSentence\obj\Debug\_08.ExtractSentence.pdb

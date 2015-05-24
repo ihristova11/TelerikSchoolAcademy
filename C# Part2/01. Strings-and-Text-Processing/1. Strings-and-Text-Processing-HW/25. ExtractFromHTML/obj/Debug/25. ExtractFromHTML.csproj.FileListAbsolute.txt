@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\25. ExtractFromHTML\bin\Debug\_25.ExtractFromHTML.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\25. ExtractFromHTML\bin\Debug\_25.ExtractFromHTML.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\25. ExtractFromHTML\bin\Debug\_25.ExtractFromHTML.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\25. ExtractFromHTML\obj\Debug\25. ExtractFromHTML.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\25. ExtractFromHTML\obj\Debug\_25.ExtractFromHTML.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\25. ExtractFromHTML\obj\Debug\_25.ExtractFromHTML.pdb

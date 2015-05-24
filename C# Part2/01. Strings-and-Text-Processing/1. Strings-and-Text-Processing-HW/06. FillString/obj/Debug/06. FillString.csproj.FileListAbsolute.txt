@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\06. FillString\bin\Debug\_06.FillString.exe.config
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\06. FillString\bin\Debug\_06.FillString.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\06. FillString\bin\Debug\_06.FillString.pdb
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\06. FillString\obj\Debug\_06.FillString.exe
+D:\Irina\School\Telerik School Academy\1. Strings-and-Text-Processing-HW\06. FillString\obj\Debug\_06.FillString.pdb

@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\01. TryCatchFinaly\bin\Debug\_01.TryCatchFinaly.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\01. TryCatchFinaly\bin\Debug\_01.TryCatchFinaly.exe
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\01. TryCatchFinaly\bin\Debug\_01.TryCatchFinaly.pdb
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\01. TryCatchFinaly\obj\Debug\01. TryCatchFinally.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\01. TryCatchFinaly\obj\Debug\_01.TryCatchFinaly.exe
+D:\Irina\School\Telerik School Academy\Exercises\4. Exception-Handling-HW\01. TryCatchFinaly\obj\Debug\_01.TryCatchFinaly.pdb
