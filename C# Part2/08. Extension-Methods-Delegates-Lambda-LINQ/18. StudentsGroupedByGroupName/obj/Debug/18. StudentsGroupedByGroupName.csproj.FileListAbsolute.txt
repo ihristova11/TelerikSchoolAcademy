@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\18. StudentsGroupedByGroupName\bin\Debug\_18.StudentsGroupedByGroupName.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\18. StudentsGroupedByGroupName\bin\Debug\_18.StudentsGroupedByGroupName.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\18. StudentsGroupedByGroupName\bin\Debug\_18.StudentsGroupedByGroupName.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\18. StudentsGroupedByGroupName\obj\Debug\_18.StudentsGroupedByGroupName.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\18. StudentsGroupedByGroupName\obj\Debug\_18.StudentsGroupedByGroupName.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\18. StudentsGroupedByGroupName\obj\Debug\18. StudentsGroupedByGroupName.csprojResolveAssemblyReference.cache

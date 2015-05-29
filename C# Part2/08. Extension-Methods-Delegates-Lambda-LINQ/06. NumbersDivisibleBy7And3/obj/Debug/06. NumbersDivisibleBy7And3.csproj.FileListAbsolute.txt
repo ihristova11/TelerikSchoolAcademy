@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\06. NumbersDivisibleBy7And3\bin\Debug\_06.NumbersDivisibleBy7And3.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\06. NumbersDivisibleBy7And3\obj\Debug\06. NumbersDivisibleBy7And3.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\06. NumbersDivisibleBy7And3\bin\Debug\_06.NumbersDivisibleBy7And3.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\06. NumbersDivisibleBy7And3\bin\Debug\_06.NumbersDivisibleBy7And3.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\06. NumbersDivisibleBy7And3\obj\Debug\_06.NumbersDivisibleBy7And3.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\06. NumbersDivisibleBy7And3\obj\Debug\_06.NumbersDivisibleBy7And3.pdb

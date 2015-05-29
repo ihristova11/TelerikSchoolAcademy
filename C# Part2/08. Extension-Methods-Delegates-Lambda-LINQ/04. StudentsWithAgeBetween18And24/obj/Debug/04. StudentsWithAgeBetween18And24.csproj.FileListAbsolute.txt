@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\04. StudentsWithAgeBetween18And24\bin\Debug\_04.StudentsWithAgeBetween18And24.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\04. StudentsWithAgeBetween18And24\bin\Debug\_04.StudentsWithAgeBetween18And24.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\04. StudentsWithAgeBetween18And24\bin\Debug\_04.StudentsWithAgeBetween18And24.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\04. StudentsWithAgeBetween18And24\obj\Debug\_04.StudentsWithAgeBetween18And24.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\04. StudentsWithAgeBetween18And24\obj\Debug\_04.StudentsWithAgeBetween18And24.pdb

@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\01. ExtendedSubstringMethod\bin\Debug\_01.ExtendedSubstringMethod.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\01. ExtendedSubstringMethod\obj\Debug\01. ExtendedSubstringMethod.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\01. ExtendedSubstringMethod\bin\Debug\_01.ExtendedSubstringMethod.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\01. ExtendedSubstringMethod\bin\Debug\_01.ExtendedSubstringMethod.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\01. ExtendedSubstringMethod\obj\Debug\_01.ExtendedSubstringMethod.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\01. ExtendedSubstringMethod\obj\Debug\_01.ExtendedSubstringMethod.pdb

@@ -1,0 +1,4 @@
+D:\Irina\School\Telerik School Academy\2nd Meeting - 19-21.11\10. High-Quality Classes\10. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\Irina\School\Telerik School Academy\2nd Meeting - 19-21.11\10. High-Quality Classes\10. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\Irina\School\Telerik School Academy\2nd Meeting - 19-21.11\10. High-Quality Classes\10. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Irina\School\Telerik School Academy\2nd Meeting - 19-21.11\10. High-Quality Classes\10. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

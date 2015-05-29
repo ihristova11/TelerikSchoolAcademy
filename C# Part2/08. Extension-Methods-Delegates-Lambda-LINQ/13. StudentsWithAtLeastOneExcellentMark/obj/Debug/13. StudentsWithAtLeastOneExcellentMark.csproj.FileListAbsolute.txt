@@ -1,0 +1,1 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\13. StudentsWithAtLeastOneExcellentMark\bin\Debug\_13.StudentsWithAtLeastOneExcellentMark.exe.config

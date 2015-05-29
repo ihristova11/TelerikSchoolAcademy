@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\17. StringMaxLength\bin\Debug\_17.StringMaxLength.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\17. StringMaxLength\bin\Debug\_17.StringMaxLength.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\17. StringMaxLength\bin\Debug\_17.StringMaxLength.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\17. StringMaxLength\obj\Debug\_17.StringMaxLength.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\17. StringMaxLength\obj\Debug\_17.StringMaxLength.pdb

@@ -1,0 +1,10 @@
+C:\Users\alexandra\Downloads\9. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.exe
+C:\Users\alexandra\Downloads\9. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.pdb
+C:\Users\alexandra\Downloads\9. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\alexandra\Downloads\9. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.exe
+C:\Users\alexandra\Downloads\9. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.pdb
+D:\Irina\Files\9. High-Quality-Methods-Homework (2)\9. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.exe
+D:\Irina\Files\9. High-Quality-Methods-Homework (2)\9. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.pdb
+D:\Irina\Files\9. High-Quality-Methods-Homework (2)\9. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.exe
+D:\Irina\Files\9. High-Quality-Methods-Homework (2)\9. High-Quality-Methods-Homework\Methods\bin\Debug\Methods.pdb
+D:\Irina\Files\9. High-Quality-Methods-Homework (2)\9. High-Quality-Methods-Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache

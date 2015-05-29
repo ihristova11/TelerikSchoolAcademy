@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\05. SortNamesWithLambdaAndLinq\bin\Debug\_05.SortNamesWithLambdaAndLinq.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\05. SortNamesWithLambdaAndLinq\bin\Debug\_05.SortNamesWithLambdaAndLinq.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\05. SortNamesWithLambdaAndLinq\bin\Debug\_05.SortNamesWithLambdaAndLinq.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\05. SortNamesWithLambdaAndLinq\obj\Debug\_05.SortNamesWithLambdaAndLinq.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\05. SortNamesWithLambdaAndLinq\obj\Debug\_05.SortNamesWithLambdaAndLinq.pdb

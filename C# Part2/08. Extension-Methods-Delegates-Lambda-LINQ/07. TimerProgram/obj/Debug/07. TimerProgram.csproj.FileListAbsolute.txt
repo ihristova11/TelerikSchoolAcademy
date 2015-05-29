@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\07. TimerProgram\bin\Debug\_07.TimerProgram.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\07. TimerProgram\obj\Debug\07. TimerProgram.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\07. TimerProgram\bin\Debug\_07.TimerProgram.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\07. TimerProgram\bin\Debug\_07.TimerProgram.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\07. TimerProgram\obj\Debug\_07.TimerProgram.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\07. TimerProgram\obj\Debug\_07.TimerProgram.pdb

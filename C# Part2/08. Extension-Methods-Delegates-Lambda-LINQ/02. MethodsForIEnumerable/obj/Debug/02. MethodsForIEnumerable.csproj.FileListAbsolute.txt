@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\02. MethodsForIEnumerable\bin\Debug\_02.MethodsForIEnumerable.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\02. MethodsForIEnumerable\obj\Debug\02. MethodsForIEnumerable.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\02. MethodsForIEnumerable\bin\Debug\_02.MethodsForIEnumerable.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\02. MethodsForIEnumerable\bin\Debug\_02.MethodsForIEnumerable.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\02. MethodsForIEnumerable\obj\Debug\_02.MethodsForIEnumerable.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\02. MethodsForIEnumerable\obj\Debug\_02.MethodsForIEnumerable.pdb

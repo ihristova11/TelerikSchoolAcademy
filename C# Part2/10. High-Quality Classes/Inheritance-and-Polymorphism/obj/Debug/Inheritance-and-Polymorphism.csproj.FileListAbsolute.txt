@@ -1,0 +1,5 @@
+D:\Irina\School\Telerik School Academy\2nd Meeting - 19-21.11\10. High-Quality Classes\10. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\2nd Meeting - 19-21.11\10. High-Quality Classes\10. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+D:\Irina\School\Telerik School Academy\2nd Meeting - 19-21.11\10. High-Quality Classes\10. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+D:\Irina\School\Telerik School Academy\2nd Meeting - 19-21.11\10. High-Quality Classes\10. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+D:\Irina\School\Telerik School Academy\2nd Meeting - 19-21.11\10. High-Quality Classes\10. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

@@ -1,0 +1,6 @@
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\03. StudentsWithFirstNameBeforeTheLast\bin\Debug\_03.StudentsWithFirstNameBeforeTheLast.exe.config
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\03. StudentsWithFirstNameBeforeTheLast\obj\Debug\03. StudentsWithFirstNameBeforeTheLast.csprojResolveAssemblyReference.cache
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\03. StudentsWithFirstNameBeforeTheLast\bin\Debug\_03.StudentsWithFirstNameBeforeTheLast.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\03. StudentsWithFirstNameBeforeTheLast\bin\Debug\_03.StudentsWithFirstNameBeforeTheLast.pdb
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\03. StudentsWithFirstNameBeforeTheLast\obj\Debug\_03.StudentsWithFirstNameBeforeTheLast.exe
+D:\Irina\School\Telerik School Academy\Exercises\8. Extension-Methods-Delegates-Lambda-LINQ\03. StudentsWithFirstNameBeforeTheLast\obj\Debug\_03.StudentsWithFirstNameBeforeTheLast.pdb
