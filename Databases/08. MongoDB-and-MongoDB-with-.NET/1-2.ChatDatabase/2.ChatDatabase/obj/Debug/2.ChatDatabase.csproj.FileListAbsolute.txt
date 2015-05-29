@@ -1,0 +1,10 @@
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\bin\Debug\2.ChatDatabase.exe.config
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\bin\Debug\2.ChatDatabase.exe
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\bin\Debug\2.ChatDatabase.pdb
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\bin\Debug\MongoDB.Bson.dll
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\bin\Debug\MongoDB.Driver.dll
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\bin\Debug\MongoDB.Bson.xml
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\bin\Debug\MongoDB.Driver.xml
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\obj\Debug\2.ChatDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\obj\Debug\2.ChatDatabase.exe
+C:\Users\Vanko\Desktop\TelerikAcademy3\Presentation8\2.ChatDatabase\2.ChatDatabase\obj\Debug\2.ChatDatabase.pdb

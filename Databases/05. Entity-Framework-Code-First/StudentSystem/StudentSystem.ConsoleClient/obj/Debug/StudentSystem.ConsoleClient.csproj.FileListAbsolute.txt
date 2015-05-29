@@ -1,0 +1,14 @@
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.pdb
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.dll
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Model.dll
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Model.pdb
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+c:\users\alexandra\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb
